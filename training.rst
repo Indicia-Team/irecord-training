@@ -8,7 +8,22 @@ ropes, don't worry as iRecord has a training option. This allows you to:
   * flag records you enter as training records so they won't be sent on to experts, local 
     environmental record centres or the NBN Gateway.
   * filter the reports you see so that you can see the training records.
+  
+.. only:: html
 
+  The following video guides you through turning on training mode, or you can read the 
+  steps detailed further down the page.
+  
+  .. raw:: html
+
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/PBq73EDZ95w" frameborder="0" allowfullscreen></iframe>
+    
+.. only:: not html
+
+  .. tip::
+  
+    You can watch a video of how to set iRecord into training mode <http://youtu.be/PBq73EDZ95w>`_.
+  
 To enable training mode, follow these steps:
 
   1. Select **My Account** from the link in the top right of the screen.
@@ -23,10 +38,6 @@ checkbox:
 .. image:: images/training-mode.png
     :width: 700px
     :alt: You preferences screen, showing the training option
-    
-.. tip::
-
-  `Follow the YouTube video showing you how to enable training mode <http://youtu.be/PBq73EDZ95w>`_. 
 
 Once you are in training mode, you will find that a message is displayed at the top of
 each page warning you. You can see from the following screenshot that the records visible

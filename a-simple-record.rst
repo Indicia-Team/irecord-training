@@ -6,7 +6,7 @@ Entering a simple record
 
   link up the video
   
-.. sidebar::
+.. sidebar:: Watch
 
   A video showing you through the steps covered in this tutorial is available.
 
@@ -15,10 +15,10 @@ way to start learning iRecord than to input a simple record. The exact informati
 might want to record will depend on what you are recording and why you are recording it, 
 but all biological records will need to include the following information:
 
-* Who recorded it
-* Where it was recorded
-* When it was recorded
-* What was recorded
+  * Who recorded it
+  * Where it was recorded
+  * When it was recorded
+  * What was recorded
 
 We will normally be logged in to iRecord when we input records, so the system knows who
 you are and can use this information to provide the default value for "who recorded it".
@@ -32,7 +32,8 @@ will need to be input when you add a record to the system.
 
   When practicing using iRecord to input records, if you want to input data that are not
   real make sure you turn on the **training** option in your user profile. 
-  :doc:`More information on using the training option<training>`.
+  :doc:`More information on using the training option<training>` or `view a video
+  <http://youtu.be/PBq73EDZ95w>`_.
   
 .. todo::
 
