@@ -22,7 +22,7 @@ ropes, don't worry as iRecord has a training option. This allows you to:
 
   .. tip::
   
-    You can watch a video of how to set iRecord into training mode <http://youtu.be/PBq73EDZ95w>`_.
+    You can `watch a video of how to set iRecord into training mode <http://youtu.be/PBq73EDZ95w>`_.
   
 To enable training mode, follow these steps:
 
@@ -49,4 +49,4 @@ on the home page are those which I've previously input whilst in training mode.
 
 Don't forget to unset the training option when you want to start inputting live records!
 When you do this, your training records will remain in the system but will be hidden from
-view until you choose to return to training mode.
+your view until you choose to return to training mode.

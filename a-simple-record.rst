@@ -1,6 +1,6 @@
-************************
-Entering a simple record
-************************
+***********************************
+Tutorial - Entering a simple record
+***********************************
 
 .. todo::
 
@@ -32,12 +32,8 @@ will need to be input when you add a record to the system.
 
   When practicing using iRecord to input records, if you want to input data that are not
   real make sure you turn on the **training** option in your user profile. 
-  :doc:`More information on using the training option<training>` or `view a video
+  :doc:`More information on using the training option<training>` or `watch this on YouTube
   <http://youtu.be/PBq73EDZ95w>`_.
-  
-.. todo::
-
-  Add link to the video for this.
 
 To add a record:
 
@@ -49,8 +45,52 @@ To add a record:
    most details of the record other than the locality information, which we will come to
    in a moment.
    
-.. image:: images/a-simple-record-part-1.png
-    :width: 700px
-    :alt: The first section of the Enter a casual record form
+   .. image:: images/a-simple-record-part-1.png
+      :width: 700px
+      :alt: The first section of the Enter a casual record form
   
-3. Entering a date
+3. For this tutorial. we're going to input the very minimal details required for a record.
+   Click in the box beside the **Date** label and you will see that a calendar panel pops
+   down making it really easy to simply click on the correct date. If you need previous
+   months or years then you can use the controls at the top of the panel to change the
+   visible month. Obviously future dates are not allowed.
+   
+   .. image:: images/a-simple-record-date_picker.png
+      :width: 500px
+      :alt: The date picker in action
+    
+   So, click on today's date to set the date for the record.
+4. The **Recorder Name** field has already been filled in with our name as a default 
+   value, so the next piece of information we must provide for our minimalistic record is 
+   the species name. Click in the box next to the **Species** label. Start typing the 
+   first few characters of a species name, e.g. "blueb" to search for 
+   Bluebell, *Hyacinthoides non-scripta*. The list of possible matched species names 
+   appears below the input box:
+   
+   .. image:: images/a-simple-record-species_autocomplete.png
+      :width: 500px
+      :alt: Searching for bluebell species name.
+    
+   If the species you are looking for has come to the top of the box then simply press
+   return to select it, or you can use the arrow keys to navigate in the list then press
+   return when the species you want is highlighted.
+5. The final piece of information we need to provide for our record is some information on
+   the place, such as a grid reference. There are several ways to do this, but the 
+   quickest is to scroll down the page till you can see the map, then move the mouse over
+   the map to the general area of the record. As you hover over the map, you can see 
+   a dotted outline of the grid square which you are currently over informing you where 
+   the grid square will be set when you click. Don't worry about making it too precise at
+   this stage - simply click on the map in the approximate location of the record. The map 
+   will now zoom in so that you can click again to set a more precise grid reference. 
+   Repeat this until your grid reference is placed to an appropriate level of precision. 
+   A 10m grid square is a good aim.
+   
+   .. image:: images/a-simple-record-map.png
+      :width: 500px
+      :alt: Setting a grid reference.
+      
+   .. note::
+
+     We'll learn about repeat recording at sites as well as how to increase the grid 
+     reference precision to 1m later.
+6. Finally, click the Submit button to save your record.
