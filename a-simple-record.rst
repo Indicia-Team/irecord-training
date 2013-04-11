@@ -1,14 +1,22 @@
 ***********************************
 Tutorial - Entering a simple record
 ***********************************
-
-.. todo::
-
-  link up the video
   
-.. sidebar:: Watch
+.. only:: html
 
-  A video showing you through the steps covered in this tutorial is available.
+  Watch the video below which shows you the steps required to input a minimalistic record
+  into iRecord. Then follow the steps given further down the page to have a go at
+  inputting a record yourself.
+  
+  .. raw:: html
+
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/K1--rdyCzLs" frameborder="0" allowfullscreen></iframe>
+    
+.. only:: not html
+
+  .. tip::
+  
+    You can `watch a video of how to input a minimalistic record <http://youtu.be/K1--rdyCzLs>`_.
 
 A wildlife recording system is nothing without the records it contains, so what better
 way to start learning iRecord than to input a simple record. The exact information you 
