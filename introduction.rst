@@ -34,5 +34,5 @@ Online wildlife recording presents a plethora of new opportunities :
 
   iRecord's philosophy is that record sharing is a fundamental part of wildlife recording. 
   In fact, unless there are sensitivity issues relating to a record iRecord allows public 
-  access to the record in full detail. iRecord is not the right tool for you if you want 
-  to keep a private list of records!
+  access to the record in full detail for non-commercial users. iRecord is not the right 
+  tool for you if you want to keep a private list of records!
