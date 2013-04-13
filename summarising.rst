@@ -36,4 +36,18 @@ species group:
 
   Have a play with the different charts available and try clicking on the pie segments, 
   chart bars and map regions to quickly access a filtered version of the **Explore** page
-  showing the underlying records and species. 
+  showing the underlying records and species.
+  
+Survey Summaries
+================
+
+Specific surveys which host their records on iRecord sometimes opt to provide a summary
+page to show progress. This might apply to a bioblitz or a survey of a specific site, for
+example. These summary pages are listed under the **Summarise > Survey summaries** menu
+item. Here's a screenshot of the summary page available for the 2012 Garden Bioblitz 
+trial:
+
+.. image:: images/summarise-garden-bioblitz.png
+    :width: 700px
+    :alt: The Garden Bioblitz 2012 trial summary
+
