@@ -21,14 +21,14 @@ Tutorial - Entering a simple record
 A wildlife recording system is nothing without the records it contains, so what better
 way to start learning iRecord than to input a simple record. The exact information you 
 might want to record will depend on what you are recording and why you are recording it, 
-but all biological records will need to include the following information:
+but most agree that all biological records need to include the following information:
 
   * Who recorded it
   * Where it was recorded
   * When it was recorded
   * What was recorded
 
-We will normally be logged in to iRecord when we input records, so the system knows who
+We will normally be logged in to iRecord when we input records, so the system already knows who
 you are and can use this information to provide the default value for "who recorded it".
 iRecord includes a limited number of ways of inputting records even when you are not 
 logged into the system but in these cases you would be asked to fill in basic details of 
@@ -40,8 +40,8 @@ will need to be input when you add a record to the system.
 
   When practicing using iRecord to input records, if you want to input data that are not
   real make sure you turn on the **training** option in your user profile. 
-  :doc:`More information on using the training option<training>` or `watch this on YouTube
-  <http://youtu.be/PBq73EDZ95w>`_.
+  :doc:`More information on using the training option<training>` or `watch how to do this 
+  this on YouTube <http://youtu.be/PBq73EDZ95w>`_.
 
 To add a record:
 

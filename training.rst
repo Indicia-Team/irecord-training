@@ -2,6 +2,12 @@
 Using Training Mode in iRecord
 ******************************
 
+.. sidebar:: Register on iRecord
+
+  Before starting any tutorials on using iRecord, make sure that you've registered a user
+  account and can log in. You can do this via the links from the `iRecord home page
+  <http://www.brc.ac.uk/irecord>`_.
+
 Whilst learning iRecord, you will want to go through the steps of actually submitting
 records into the system and seeing the results. If you are concerned about putting
 records into iRecord whilst you are still learning the ropes then don't worry as iRecord 
