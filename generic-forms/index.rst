@@ -7,14 +7,10 @@ available to you. Since these let you record any species group, each record only
 basic attributes which are relevant to most groups. We've already briefly used the
 :doc:`Enter a casual record <enter-casual-record>` form when we :doc:`entered a
 minimalistic record <../a-simple-record>` earlier. In this section we'll take a look at 
-this form in more detail as well as the following forms:
-
-  * :doc:`enter-records-list`
-  * :doc:`enter-records-at-several-places`
+this form in more detail as well as additional forms used when inputting multiple records:
   
 .. toctree::
-  :maxdepth: 2
-  :hidden:
+  :maxdepth: 1
   
   enter-casual-record
   enter-records-list
