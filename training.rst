@@ -2,11 +2,15 @@
 Using Training Mode in iRecord
 ******************************
 
-If you are concerned about putting records into iRecord whilst you are still learning the 
-ropes, don't worry as iRecord has a training option. This allows you to:
+Whilst learning iRecord, you will want to go through the steps of actually submitting
+records into the system and seeing the results. If you are concerned about putting
+records into iRecord whilst you are still learning the ropes then don't worry as iRecord 
+supports a training mode. Whilst in training mode:
 
-  * flag records you enter as training records so they won't be sent on to experts, local 
-    environmental record centres or the NBN Gateway.
+  * the records you add are flagged as training records so they won't be sent on to 
+    experts, local environmental record centres or the NBN Gateway.
+  * training records are hidden from view for all users of iRecord unless they are also in 
+    training mode.
   * filter the reports you see so that you can see the training records.
   
 .. only:: html
