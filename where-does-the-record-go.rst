@@ -41,12 +41,13 @@ regularly backed up.
 Records are immediately available
 =================================
 
-All records added to iRecord are immediately available for browsing on the Explore pages
-of the website. Also, *records are immediately available for download by local 
-environmental record centres and other relevant non-commercial schemes and societies*.
-This means that important unverified records can be immediately brought to the attention
-of record centres as part of the planning decision process - the record should of course
-be verified or re-confirmed before it is used as any sort of evidence. 
+All non-sensitive records added to iRecord are immediately available for browsing on the
+Explore pages of the website. Local environmental records centres have instant access to
+records, to ensure that they are not overlooked in the local planning process while they
+are waiting for verification.  Of course, a record needs to be verified before it is used
+as evidence for decision making, but instant access to unverified records can help ensure
+that important species and habitats are not harmed due to lack of awareness of their
+presence.
 
 Automated checks
 ================
@@ -100,13 +101,16 @@ avoid making things harder than they need to be.
 Records are passed to the NBN Gateway
 =====================================
 
-The NBN Gateway is the UK's portal for exploring biodiversity data, a *node* of the
-Global Biodiversity Information Framework (GBIF). All verified records from iRecord are
-passed to the NBN Gateway's database and from there they are made available to GBIF.
+The NBN Gateway is the UK's portal for exploring biodiversity data, a *node* of the Global
+Biodiversity Information Framework (GBIF). All verified records from iRecord are shared
+via the NBN Gateway in datasets administered by the relevant recording scheme, local
+records centre or survey organiser.  From there, the records are made available to a
+number of other websites via NBN web services, and to an international audience via GBIF.
 
 .. image:: images/where-record-goes-nbn.png
     :width: 700px
     :alt: Verified iRecord records go onto the NBN Gateway
     
-The NBN Gateway makes iRecord records available to non-commercial individuals and 
-organisations.
+The NBN Gateway makes iRecord records available for public interest and to support nature
+conservation.  The records may be used for research and commercial purposes with written
+permission from the dataset administrator.
