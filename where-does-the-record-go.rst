@@ -13,7 +13,9 @@ terms all need to be matched with the correct equivalents in the database. This 
 sound trivial but don't forget that many species names are not unique; a redshank is a
 plant *or* a bird for example. A combination of the effort required to process records and
 the lack of awareness of the importance of collating records means that many records
-remain exactly where they started out - on paper or on a spreadsheet. 
+remain exactly where they started out - on paper or on a spreadsheet. This is even true of
+many records collected from that most modern of recording phenomena, the bioblitz; the 
+effort required to mobilise the data is often considered not worth it.
 
 .. image:: images/where-record-goes-paper.jpg
     :width: 700px
@@ -30,11 +32,11 @@ the story, so lets take a look at what else happens next behind the scenes.
 The Database
 ============
 
-All records added to iRecord go straight into a database hosted by the `Biological Records
-Centre <http://www.brc.ac.uk>`_ known as the *community warehouse*. This reflects the fact
-that the database is shared with a community of other online recording websites for 
-reasons which we will come to later. The records are held securely and are regularly 
-backed up.
+All records added to iRecord go straight into a database hosted by the `Biological
+Records Centre <http://www.brc.ac.uk>`_ known as the *community warehouse*. This name
+reflects the fact that the database is shared with a community of other online recording
+websites for reasons which we will come to later. The records are held securely and are
+regularly backed up.
 
 Records are immediately available
 =================================

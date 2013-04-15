@@ -7,8 +7,6 @@ square. The **Enter Records at Several Places** form is designed to handle this 
 and efficiently - you can add a number of grid squares to a map and enter any number of 
 records you like at each grid square.
 
-.. todo:: link up a video
-
 .. only:: html
 
   Watch the video below which shows you how to input records at several places. Then 

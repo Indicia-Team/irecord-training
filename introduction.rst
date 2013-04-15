@@ -7,7 +7,7 @@ wildlife recording can be a fascinating and rewarding activity. Hopefully after 
 this you will realise that iRecord can not only make wildlife recording more enjoyable but
 can make your recording efforts become much more worthwhile by ensuring that your records
 are fully utilised. At it's most fundamental level wildlife records are collected on paper
-or even in digital form such as a spreadsheet. It's all to easy for the records to get
+or even in digital form such as a spreadsheet. It's all too easy for the records to get
 forgotten about and left exactly where they are; the records are then not available for
 anything from planning decisions to research. Contrastingly, by using an online recording
 system like iRecord you can easily:

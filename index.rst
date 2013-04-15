@@ -11,7 +11,7 @@ Contents:
   training
   a-simple-record
   where-does-the-record-go
-  setting-my-preferences
+  setting-my-account
   generic-forms/index
   data-entry-tips
   exploring
