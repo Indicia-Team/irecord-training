@@ -16,7 +16,6 @@ Contents:
   data-entry-tips
   exploring
   exploring-tutorial
-  editing
   my-sites
   forms-library
   summarising
@@ -25,7 +24,7 @@ Contents:
   
 .. todo::
   
-  editing
-  my-sites
   verification
+  forms-library
+  
   
