@@ -15,7 +15,10 @@ plant *or* a bird for example. A combination of the effort required to process r
 the lack of awareness of the importance of collating records means that many records
 remain exactly where they started out - on paper or on a spreadsheet. This is even true of
 many records collected from that most modern of recording phenomena, the bioblitz; the 
-effort required to mobilise the data is often considered not worth it.
+effort required to mobilise the data is often considered not worth it. Of course that's 
+not to say that we shouldn't hold events purely with the aim of public engagement, but 
+with iRecord we hope to make mobilising records much easier so there are no good reasons
+not to.
 
 .. image:: images/where-record-goes-paper.jpg
     :width: 700px
