@@ -2,7 +2,9 @@
 iRecord Training
 ################
 
-Contents:
+Welcome to the iRecord training manual. This manual guides you through learning how to 
+use iRecord in detail to record your wildlife sightings and to share them with the rest of 
+the wildlife recording community.
 
 .. toctree::
   :maxdepth: 2
@@ -20,11 +22,5 @@ Contents:
   forms-library
   summarising
   verification
-  
-  
-.. todo::
-  
-  verification
-  forms-library
   
   
