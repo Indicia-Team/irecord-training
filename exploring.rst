@@ -79,8 +79,23 @@ the map:
 .. image:: images/explore-records.png
     :width: 700px
     :alt: The list of records.
+    
+In this grid, details of the record including any photos are shown. The icon in the 
+species name column gives an indication of the record's quality:
 
-It also shows a list of the species currently loaded on the map on the second tab:
+  * One star - record not yet checked by an expert and marked as uncertain by the 
+    recorder.
+  * Two stars - record not yet checked by an expert and marked as likely by the recorder.
+  * Three stars - record not yet checked by an expert and marked as certain by the 
+    recorder.
+  * Red cross - record checked by an expert and rejected. Note that you will only see 
+    rejected records on the Explore My Records page, not when viewing records from other
+    users.
+  * Amber question mark - record checked by an expert and marked for querying.
+  * Green tick - record checked by an expert and confirmed.
+  
+The data panel also shows a list of the species currently loaded on the map on the second 
+tab:
 
 .. image:: images/explore-species.png
     :width: 700px
