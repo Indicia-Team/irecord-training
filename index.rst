@@ -25,7 +25,6 @@ Contents:
   
 .. todo::
   
-  exploring
   editing
   my-sites
   verification

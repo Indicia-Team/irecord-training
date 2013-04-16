@@ -6,7 +6,9 @@ Now we've got to grips with the contents of the **Explore** menu, let's take a g
 which will take in some more details. Before following this tutorial through, please visit
 your **My Account** page, then go to the **Edit** tab and **Preferences** sub-tab. Change
 your **Location** to Dorset. You can change it back again afterwards but this way you will
-be able to follow through the steps with roughly the same records.
+be able to follow through the steps with roughly the same records. Whilst you are doing 
+this, uncheck the **Training** checkbox if it is currently checked so that we can see 
+real records.
 
 Now, go to **Explore > All Records**. Untick the **My species groups only?** checkbox
 above the map and click the **Filter** button. Your map should look like this:
@@ -114,4 +116,6 @@ For each record shown on the Explore page data tables, there are potentially up 
   an identification.
      
 To round this tutorial off, see if you can find the record of the queen *Bombus 
-terrestris* you entered earlier and edit it to change the grid reference.
+terrestris* you entered earlier and edit it to change the grid reference. A hint - because
+this record was entered in training mode, you will have to set training mode on your **My
+Account** page.

@@ -145,7 +145,7 @@ Exercise
 To make sure you've got to grips with all this, ensure you are in :doc:`training mode
 <../training>` and then enter the following records:
 
-  1. A record of a queen Bombus terrestris (buff tailed bumblebee), seen looking for 
+  1. A record of a queen *Bombus terrestris* (buff tailed bumblebee), seen looking for 
      nesting sites on 4th April 2013. The grid reference was ST99550006. As you are not
      a bumblebee expert, you are trusting that Mr Smith (a passing walker) was correct in 
      the identification, so you can't be certain.
