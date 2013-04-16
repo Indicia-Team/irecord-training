@@ -15,10 +15,18 @@ Contents:
   generic-forms/index
   data-entry-tips
   exploring
-  editing records
+  exploring-tutorial
+  editing
   my-sites
   forms-library
   summarising
   verification
   
+  
+.. todo::
+  
+  exploring
+  editing
+  my-sites
+  verification
   
