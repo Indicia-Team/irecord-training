@@ -1,5 +1,5 @@
-The Enter a Casual Record Data Entry Form
-=========================================
+Tutorial - Enter a casual record
+================================
 
 Since we've already used the **Enter a casual record** form when we :doc:`added a simple
 record <../a-simple-record>` earlier, we'll take this opportunity to take a look in more

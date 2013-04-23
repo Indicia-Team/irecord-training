@@ -1,5 +1,5 @@
-The Enter a List of Records Data Entry Form
-===========================================
+Tutorial - Enter a list of records
+==================================
 
 This form is designed for quickly entering a list of records that were collected at the
 same place, on the same date, by the same person. Each record added on the **Enter a List

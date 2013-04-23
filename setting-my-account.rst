@@ -1,6 +1,6 @@
-**********
-My Account
-**********
+*********************
+Tutorial - My Account
+*********************
 
 iRecord allows you to customise several aspects including the species groups you like to 
 record most often and the region you most often record in. These are then used to 
