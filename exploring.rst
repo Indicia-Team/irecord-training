@@ -16,11 +16,9 @@ available in iRecord for browsing existing records.
 Exploring Records
 =================
 
-First, select **Explore > My Records** from the menu. The Explore page will open, filtered
-to show your records. If you have selected your preferred recording location in **My 
-Account** then the map will be zoomed to show that location's boundary. The **Explore >
-All Records** page is exactly the same in functionality, but not initially filtered to 
-show your own records.
+There are 2 Explore pages accessible from the menus in iRecord - **Explore all records**
+and **Explore my records**. Both are the same except that the my records version is 
+filtered to only your own records. 
 
 The Explore pages are divided into 2 parts, a map panel and a data panel as described 
 below.
@@ -65,10 +63,6 @@ The fill colour of the grid square always shows the expert's opinion:
   * Red = record rejected
   * Orange = record marked for querying
   * Green = record has been verified.
-  
-So, load up your own **Explore > My Records** page and zoom in on some of the records to 
-see how they appear on the map. In a moment we'll take a look at how you can examine the 
-underlying data for these map points.
 
 Data Panel
 ----------
@@ -118,8 +112,8 @@ other explore pages.
 Explore > Species Maps
 ======================
 
-Select the **Explore > Species Maps** menu item. This page provides a really quick and
-easy way to draw maps of the various species data held in iRecord. 
+The **Explore > Species Maps** page provides a really quick and easy way to draw maps of 
+the various species data held in iRecord. 
 
 .. image:: images/explore-species-maps.png
     :width: 700px
