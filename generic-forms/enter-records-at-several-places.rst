@@ -1,5 +1,5 @@
-Tutorial - The Enter Records at Several Places Data Entry Form
-==============================================================
+Tutorial - Enter records at several places
+==========================================
 
 Although entering a list of records from one place on one day can be a quick way of 
 inputting lists of records, most recording trips involve records from more than one grid
@@ -22,7 +22,7 @@ records you like at each grid square.
   .. tip::
   
     You can `watch a video of using the Enter Records at Several Places data entry form
-    <http://youtu.be/JTpwXcQkbWw>`_.
+    <http://www.youtube.com/watch?v=JTpwXcQkbWw>`_.
     
 During this tutorial, you will enter records from several grid squares. We'll guide you 
 through entering some fictitious records but at the end of the tutorial feel free to 

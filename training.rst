@@ -1,6 +1,6 @@
-******************************
-Using Training Mode in iRecord
-******************************
+*****************************************
+Tutorial - Using Training Mode in iRecord
+*****************************************
 
 .. sidebar:: Register on iRecord
 
@@ -32,7 +32,8 @@ supports a training mode. Whilst in training mode:
 
   .. tip::
   
-    You can `watch a video of how to set iRecord into training mode <http://youtu.be/PBq73EDZ95w>`_.
+    You can `watch a video of how to set iRecord into training mode 
+    <http://www.youtube.com/watch?v=PBq73EDZ95w>`_.
   
 To enable training mode, follow these steps:
 

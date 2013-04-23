@@ -16,7 +16,8 @@ Tutorial - Entering a simple record
 
   .. tip::
   
-    You can `watch a video of how to input a minimalistic record <http://youtu.be/K1--rdyCzLs>`_.
+    You can `watch a video of how to input a minimalistic record 
+    <http://www.youtube.com/watch?v=K1--rdyCzLs>`_.
 
 A wildlife recording system is nothing without the records it contains, so what better
 way to start learning iRecord than to input a simple record. The exact information you 
@@ -41,7 +42,7 @@ will need to be input when you add a record to the system.
   When practicing using iRecord to input records, if you want to input data that are not
   real make sure you turn on the **training** option in your user profile. 
   :doc:`More information on using the training option<training>` or `watch how to do this 
-  this on YouTube <http://youtu.be/PBq73EDZ95w>`_.
+  this on YouTube <http://www.youtube.com/watch?v=PBq73EDZ95w>`_.
 
 To add a record:
 

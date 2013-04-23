@@ -1,6 +1,6 @@
-***************
-Data Entry Tips
-***************
+**************************
+Tutorial - Data Entry Tips
+**************************
 
 Data entry in iRecord is designed to be as quick and intuitive as possible. However, in 
 this tutorial we'll take a look at a few tips and tricks which can make things even 
@@ -106,20 +106,20 @@ you will find that **Arum maculatum** appears in the list a couple of places fro
 Use the down arrow key to move the highlighted name down, then hit the return key to 
 select it.
 
-The species name is selected and a new row is automatically added to the grid. Note that 
-the input cursor is put straight into the new box in the Species column ready for you
-to continue typing species names. Let's try the next name in the list, written as "Dog
+The species name is selected and a new row is automatically added to the grid. Note that
+the input cursor is put straight into the new box in the Species column ready for you to
+continue typing species names. Let's try the next name in the list, written as "Dog
 violet". Type this name in. Nothing is found - you can tell this because the rotating
-"searching icon" appears briefly and then disappears, indicating nothing was found. One 
-thing to bear in mind about using the UK Species Index to lookup species names is it does
-not understand the vagaries of the ways that we often share names. There are actually many
-dog violet species; we happen to know that Fred meant common dog violet, because we know
-Fred would have specified if it were something different. But iRecord can't make these
-assumptions for you. If you can't find a species name because you know that there is a 
-part of the name missing, then insert a ``*`` character as appropriate to act as a wildcard.
-Insert a ``*`` at the start of the species name input so you are searching for ``*`` dog 
-violet and you will find that a number of dog violet species are returned with common a 
-little way down the list. Select it and we'll move on. 
+"searching icon" appears briefly and then disappears, indicating nothing was found. One
+thing to bear in mind about using the UK Species Index to lookup species names is it
+does not understand the vagaries of the ways that we often share names. There are
+actually many dog violet species; we happen to know that Fred meant common dog violet,
+because we know Fred would have specified if it were something different. But iRecord
+can't make these assumptions for you. If you can't find a species name because you know
+that there is a part of the name missing, then insert a ``*`` character as appropriate
+to act as a wildcard. Insert a ``*`` at the start of the species name input so you are
+searching for ``*`` dog violet and you will find that a number of dog violet species are
+returned with common a little way down the list. Select it and we'll move on. 
 
 Now that we've input the plants from the list, click the filter button again and this time
 set the filter to "Birds" and click **Apply**. 
@@ -241,7 +241,7 @@ Map tips
   .. tip::
   
     You can `watch a video of map tips and tricks
-    <http://youtu.be/A_obzNIN8Ws>`_.
+    <http://www.youtube.com/watch?v=A_obzNIN8Ws>`_.
   
 Here are a collection of tips and tricks for using iRecord's map during data input. Try
 each tip out using the **Record > Enter a list of records** page.
